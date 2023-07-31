@@ -9,7 +9,9 @@ As we know, we are studying the ability to locate polyps that can develop into m
 ## Dataset Link: 
 https://datasets.simula.no/kvasir-seg/
 ## Samples of Dataset:
-![download (1)](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/6b980242-a035-42bd-ad28-eaabf7665dcd)
+| An example of polyps | Dataset samples |
+| :---: | :---: |
+| ![colon-AdobeStock_48336100-1-1024x768](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/16c7a10f-c803-48dd-8b19-4cdd867cda30)|![download (1)](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/6b980242-a035-42bd-ad28-eaabf7665dcd)|
 
 # Neural network architecture proposal:
 ![architecture segmentation drawio (4)](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/fa41b5fc-ee45-448c-9d89-4d0e779156a4)
