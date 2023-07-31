@@ -14,7 +14,7 @@ https://datasets.simula.no/kvasir-seg/
 | ![colon-AdobeStock_48336100-1-1024x768](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/16c7a10f-c803-48dd-8b19-4cdd867cda30)|![download (1)](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/6b980242-a035-42bd-ad28-eaabf7665dcd)|
 
 # Neural network architecture proposal:
-![architecture segmentation drawio (4)](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/fa41b5fc-ee45-448c-9d89-4d0e779156a4)
+![architecture segmentation drawio (5)](https://github.com/kaledhoshme123/Automatic-detection-of-Colon-polyps-/assets/108609519/5f03e5a2-8495-4d11-987e-ea83824edd24)
 
 # Results and metrics:
 | # | Metrics |
