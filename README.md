@@ -1,4 +1,4 @@
-# Automatic detection of Colon polyps 
+# Determine the location of the skin lesion spread
 - Dermatologists suffer from the difficulty of locating cancerous and malignant skin lesions, which causes many problems during the process of removing the tumor, which leads to the return of the tumor again. In determining the location of the tumor and its spread and determining the area that must be removed accurately.
 - The proposed neural architecture, which is based on convolutional neural networks, extracts the basic features of the skin lesion and then generates and defines the lesion area based on the extracted features from the lesion area.
 - The proposed model was able to reach a high accuracy in determining the location of the spread of the cancerous tumor, or the location of the spread of the skin lesion.
